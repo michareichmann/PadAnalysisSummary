@@ -1,0 +1,22 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {british}
+\beamer@sectionintoc {1}{EUDAQ Converter}{4}{0}{1}
+\beamer@subsectionintoc {1}{1}{Waveforms}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Definition of the Peakfinding Regions}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Definition of the Integral Ranges}{6}{0}{1}
+\beamer@sectionintoc {2}{Telescope Analysis}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Tracks}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{$\upchi ^{2}$}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{Track Angle}{9}{0}{2}
+\beamer@sectionintoc {3}{Cuts}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{Tracks}{10}{0}{3}
+\beamer@subsectionintoc {3}{2}{Signal}{11}{0}{3}
+\beamer@sectionintoc {4}{Diamond Pad Analysis}{12}{0}{4}
+\beamer@subsectionintoc {4}{1}{Pedestal}{12}{0}{4}
+\beamer@subsectionintoc {4}{2}{Pedestal}{13}{0}{4}
+\beamer@subsectionintoc {4}{3}{Signal}{14}{0}{4}
+\beamer@subsectionintoc {4}{4}{Pulser}{15}{0}{4}
+\beamer@subsectionintoc {4}{5}{Beam Profile}{16}{0}{4}
+\beamer@subsectionintoc {4}{6}{Signal Peak Positions in Time}{17}{0}{4}
+\beamer@subsectionintoc {4}{7}{2D Signal Maps}{18}{0}{4}
+\beamer@subsectionintoc {4}{8}{Diamond Currents}{19}{0}{4}
