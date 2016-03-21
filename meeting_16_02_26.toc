@@ -1,23 +1,26 @@
 \beamer@endinputifotherversion {3.24pt}
 \select@language {british}
 \beamer@sectionintoc {1}{Introduction}{4}{0}{1}
-\beamer@sectionintoc {2}{EUDAQ Converter}{6}{0}{2}
-\beamer@subsectionintoc {2}{1}{Waveforms}{6}{0}{2}
-\beamer@subsectionintoc {2}{2}{Definition of the Peakfinding Regions}{7}{0}{2}
-\beamer@subsectionintoc {2}{3}{Definition of the Integral Ranges}{8}{0}{2}
-\beamer@sectionintoc {3}{Telescope Analysis}{9}{0}{3}
-\beamer@subsectionintoc {3}{1}{Tracks}{9}{0}{3}
-\beamer@subsectionintoc {3}{2}{$\upchi ^{2}$}{10}{0}{3}
-\beamer@subsectionintoc {3}{3}{Track Angle}{11}{0}{3}
-\beamer@sectionintoc {4}{Cuts}{12}{0}{4}
-\beamer@subsectionintoc {4}{1}{Tracks}{12}{0}{4}
-\beamer@subsectionintoc {4}{2}{Signal}{13}{0}{4}
-\beamer@sectionintoc {5}{Diamond Pad Analysis}{14}{0}{5}
-\beamer@subsectionintoc {5}{1}{Pedestal}{14}{0}{5}
-\beamer@subsectionintoc {5}{2}{Pedestal}{15}{0}{5}
-\beamer@subsectionintoc {5}{3}{Signal}{16}{0}{5}
-\beamer@subsectionintoc {5}{4}{Pulser}{17}{0}{5}
-\beamer@subsectionintoc {5}{5}{Beam Profile}{18}{0}{5}
-\beamer@subsectionintoc {5}{6}{Signal Peak Positions in Time}{19}{0}{5}
-\beamer@subsectionintoc {5}{7}{2D Signal Maps}{20}{0}{5}
-\beamer@subsectionintoc {5}{8}{Diamond Currents}{21}{0}{5}
+\beamer@subsectionintoc {1}{1}{Applicability}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Setup}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Datataking}{7}{0}{1}
+\beamer@sectionintoc {2}{EUDAQ Converter}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Definition of the PeakSearchRegions}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Waveforms}{11}{0}{2}
+\beamer@subsectionintoc {2}{3}{Definition of the Integral Ranges}{15}{0}{2}
+\beamer@sectionintoc {3}{Telescope Analysis}{16}{0}{3}
+\beamer@subsectionintoc {3}{1}{Tracks}{17}{0}{3}
+\beamer@subsectionintoc {3}{2}{$\upchi ^{2}$}{18}{0}{3}
+\beamer@subsectionintoc {3}{3}{Track Angle}{19}{0}{3}
+\beamer@sectionintoc {4}{Cuts}{20}{0}{4}
+\beamer@subsectionintoc {4}{1}{Tracks}{21}{0}{4}
+\beamer@subsectionintoc {4}{2}{Signal}{22}{0}{4}
+\beamer@sectionintoc {5}{Analysis I (Waveforms)}{23}{0}{5}
+\beamer@subsectionintoc {5}{1}{Pedestal}{24}{0}{5}
+\beamer@subsectionintoc {5}{2}{Signal}{25}{0}{5}
+\beamer@subsectionintoc {5}{3}{Pulser}{26}{0}{5}
+\beamer@sectionintoc {6}{Analysis II}{27}{0}{6}
+\beamer@subsectionintoc {6}{1}{Beam Profile}{28}{0}{6}
+\beamer@subsectionintoc {6}{2}{Signal Peak Positions in Time}{29}{0}{6}
+\beamer@subsectionintoc {6}{3}{2D Signal Maps}{30}{0}{6}
+\beamer@subsectionintoc {6}{4}{Diamond Currents}{31}{0}{6}
